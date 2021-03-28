@@ -1,18 +1,18 @@
 ﻿<Properties StartupConfiguration="{9E0994D1-FCE4-4955-90CB-72E382563A24}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DemoLibrary/Person.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleUI/Factory.cs">
     <Files>
-      <File FileName="ConsoleUI/Program.cs" Line="27" Column="1" />
-      <File FileName="DemoLibrary/Chore.cs" Line="20" Column="52" />
-      <File FileName="DemoLibrary/Person.cs" Line="1" Column="1" />
+      <File FileName="ConsoleUI/Program.cs" Line="20" Column="1" />
+      <File FileName="DemoLibrary/Chore.cs" Line="26" Column="1" />
+      <File FileName="ConsoleUI/Factory.cs" Line="18" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DIPDemo" expanded="True">
-            <Node name="ConsoleUI" expanded="True" />
-            <Node name="DemoLibrary" expanded="True">
-              <Node name="Person.cs" selected="True" />
+            <Node name="ConsoleUI" expanded="True">
+              <Node name="Factory.cs" selected="True" />
             </Node>
+            <Node name="DemoLibrary" expanded="True" />
           </Node>
         </State>
       </Pad>
