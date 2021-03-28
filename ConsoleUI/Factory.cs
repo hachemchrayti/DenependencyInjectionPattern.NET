@@ -24,7 +24,8 @@ namespace ConsoleUI
 
         public static IMessageSender CreateMessageSender()
         {
-            return new Emailer();
+            //return new Emailer();
+            return new Texter();
         }
     }
 }
